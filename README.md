@@ -3,8 +3,7 @@
 Bienvenido al repositorio de este proyecto. Aquí podrás descargar el instalador y conocer el proceso de creación de la app.
 
 ## 📱 Descarga la App
-[Descargar el archivo APK aquí](nombredetuarchivo.apk)
-*(Nota: Cambia "nombredetuarchivo.apk" por el nombre exacto del archivo que acabas de subir).*
+[Descargar el archivo APK aquí](APP_PlazaVea.apk)
 
 ## 💡 El Motivo de la Aplicación
 *Escribe aquí por qué decidiste crearla. Puedes detallar los procesos de atención, inventario o gestión de caja que notaste en el día a día y que esta aplicación busca agilizar o mejorar.*
