@@ -3,17 +3,16 @@
 Bienvenido al repositorio de este proyecto. Aquí podrás descargar el instalador y conocer el proceso de creación de la app.
 
 ## 📱 Descarga la App
-[Descargar el archivo APK aquí](APP_PlazaVea.apk)
+[Descargar el archivo APK aquí](https://github.com/Rodri-27/APP_PlazaVea/releases/download/v1.0/APP_PlazaVea.apk)
 
 ## 💡 El Motivo de la Aplicación
-*Escribe aquí por qué decidiste crearla. Puedes detallar los procesos de atención, inventario o gestión de caja que notaste en el día a día y que esta aplicación busca agilizar o mejorar.*
+Al trabajar directamente en el área de caja, identifiqué de primera mano los cuellos de botella en los procesos de atención al cliente y la gestión diaria. El objetivo de este proyecto es agilizar estas tareas, aplicando soluciones tecnológicas para resolver problemas reales del piso de ventas y mejorar la eficiencia del servicio.
 
 ## ⚙️ Cómo se Desarrolló
-*Explica aquí el proceso técnico. Menciona que fue desarrollada en Android Studio utilizando Java. Puedes hablar sobre cómo implementaste las vistas (como los ListViews o Intents para navegar entre pantallas) y los retos que superaste al programar la lógica.*
+La aplicación fue construida íntegramente en Android Studio utilizando el lenguaje Java. Para la arquitectura de la interfaz y la experiencia de usuario, implementé componentes como ListViews para organizar los datos de manera clara, y utilicé Intents explícitos para gestionar la navegación de forma fluida entre las distintas pantallas de la aplicación.
 
 ## 📸 Capturas de Pantalla
 
 ![Pantalla Principal](nombre-de-tu-captura-1.png)
-*(Nota: Reemplaza "nombre-de-tu-captura-1.png" con el nombre exacto de la imagen que subiste).*
 
 ![Otra Vista de la App](nombre-de-tu-captura-2.png)
