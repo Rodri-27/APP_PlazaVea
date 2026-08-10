@@ -13,6 +13,12 @@ La aplicación fue construida íntegramente en Android Studio utilizando el leng
 
 ## 📸 Capturas de Pantalla
 
-![Pantalla Principal](nombre-de-tu-captura-1.png)
+A continuación se muestra la interfaz y el flujo de la aplicación:
 
-![Otra Vista de la App](nombre-de-tu-captura-2.png)
+| | |
+|:---:|:---:|
+| ![Captura 1](Captura1.jpeg) | ![Captura 2](Captura2.jpeg) |
+| ![Captura 3](Captura3.jpeg) | ![Captura 4](Captura4.jpeg) |
+| ![Captura 5](Captura5.jpeg) | ![Captura 6](Captura6.jpeg) |
+| ![Captura 7](Captura7.jpeg) | ![Captura 8](Captura8.jpeg) |
+| ![Captura 9](Captura9.jpeg) | ![Captura 10](Captura10.jpeg) |
